@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.main {
+    height: 100vh;
+    width: 100%;
+    background-color: #e3e3e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 328px;
+    height: 178px;
+    background-color: #1b1b1b;
+    box-shadow: 2px 7px 20px black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 49px;
+    color: rgb(202, 202, 202);
+}
